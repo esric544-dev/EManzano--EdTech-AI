@@ -1,5 +1,5 @@
 # EManzano--EdTech-AI
-Professional SME Portfolio
+Professional Portfolio
 
 👋 Hi, I'm Esther
 Educator & AI Evaluator in Training
