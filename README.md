@@ -41,7 +41,7 @@ Licensed and certified K–8 educator with experience designing and grading asse
 📫 Let’s Connect
 
 LinkedIn: https://www.linkedin.com/in/esther-manzano-a7051a302
-GitHub: (this profile)
+ GitHub: (this profile)
 
 Ensuring AI outputs are accurate, ethical, and truly helpful for learners.
 
