@@ -1,7 +1,7 @@
 # EManzano--EdTech-AI
 Professional Portfolio
 
-👋 Hi, I'm Esther
+👋 Hi, I'm Esther!
 Educator & AI Evaluator in Training
 Focus: AI response evaluation, instruction‑following, and educational content quality
 
