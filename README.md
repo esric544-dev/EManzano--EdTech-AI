@@ -1,4 +1,5 @@
 # EManzano--EdTech-AI
+Short Line version:
 🚀 About Me
 I’m a K–8 educator with 30 years of experience in curriculum design, assessment, and rubric‑based evaluation. In 2025, I transitioned into AI evaluation, reviewing AI‑generated responses for:
 
@@ -70,6 +71,7 @@ LinkedIn: https://www.linkedin.com/in/esther-manzano-a7051a302
 Ensuring AI outputs are accurate, ethical, and truly helpful for learners.
 
 
+Longer/Paragraph Version
 Professional Portfolio
 
 👋 Hi, I'm Esther!
