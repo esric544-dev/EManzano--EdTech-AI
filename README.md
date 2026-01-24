@@ -4,72 +4,71 @@ Short Line version:
 🚀 About Me
 I’m a K–8 educator with 30 years of experience in curriculum design, assessment, and rubric‑based evaluation. In 2025, I transitioned into AI evaluation, reviewing AI‑generated responses for:
 
-accuracy
+-accuracy
 
-clarity
+-clarity
 
-safety
+-safety
 
-instruction‑following
+-instruction‑following
 
-guideline compliance
+-guideline compliance
 
 I’m currently deepening my technical skills through the K21 Academy AWS + AI/ML + GenAI program, building a foundation in Python and applied machine learning.
 
 🔍 Evaluation Strengths
-AI response evaluation (accuracy, clarity, safety)
+-AI response evaluation (accuracy, clarity, safety)
 
-Guideline and rubric interpretation
+-Guideline and rubric interpretation
 
-Hallucination detection
+-Hallucination detection
 
-Clear written feedback
+-Clear written feedback
 
-High‑volume, consistent annotation
+-High‑volume, consistent annotation
 
 🐍 Technical Skills (Developing)
 Python fundamentals (variables, loops, functions, data structures)
 
-Jupyter/Colab notebooks
+-Jupyter/Colab notebooks
 
-Basic data workflows
+-Basic data workflows
 
-Version control with GitHub
+-Version control with GitHub
 
-Understanding how Python supports AI/ML tasks
+-Understanding how Python supports AI/ML tasks
 
 📁 Portfolio Repositories
-Python Practice
-Beginner‑level Python exercises and assignments from my AI/ML coursework.
+-Python Practice
+-Beginner‑level Python exercises and assignments from my AI/ML coursework.
 
-Day_5_Assignment.ipynb
+-AWSLab.ipynb
 
-AWS.ipynb
+-PYTHON-REVIEW
 
-PYTHON-REVIEW
+-Learning Notes
+-My personal notes from Python, AI/ML fundamentals, and evaluator work.
 
-Learning Notes
-My personal notes from Python, AI/ML fundamentals, and evaluator work.
+-AI Evaluation Notes
+-Reflections on rubric use, common model errors, and evaluation patterns.
 
-AI Evaluation Notes
-Reflections on rubric use, common model errors, and evaluation patterns.
-
-UI Lab
-A simple chat UI built as part of my hands‑on learning.
+-UI Lab
+-A simple chat UI built as part of my hands‑on learning.
 
 🎓 Background
-M.S. in Curriculum & Instruction (WGU)
+-M.S. in Curriculum & Instruction (WGU)
 
-30 years of K–8 teaching experience
+-30 years of K–8 teaching experience
 
-Licensed educator with deep assessment and instructional design expertise
+-Licensed educator with deep assessment and instructional design expertise
 
 📫 Let’s Connect:
 
-LinkedIn: https://www.linkedin.com/in/esther-manzano-a7051a302
- GitHub: (this profile)
+-LinkedIn: https://www.linkedin.com/in/esther-manzano-a7051a302
+-GitHub: (this profile)
 
 Ensuring AI outputs are accurate, ethical, and truly helpful for learners.
+
 
 
 Longer/Paragraph Version
